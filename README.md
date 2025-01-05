@@ -16,8 +16,7 @@ StayEase is a comprehensive full-stack web application meticulously designed to 
 
 ### 3. **Search and Filter**
 - Advanced search functionality with location, price range, and category filters.
-- Real-time availability checking.
-
+- 
 ### 4. **Reviews and Ratings**
 - Users can leave detailed reviews and ratings for properties.
 - Moderated reviews to maintain quality and relevance.
